@@ -1,9 +1,3 @@
-### Hi there 👋
-
-I'm Maik van der Gaag, and work as the CTO for 3fifty, an experienced consultancy company focusing on the Microsoft Cloud. I have over 15 years of experience providing architecture, development, training, and design expertise. During my work, I work on a variety of projects ranging from Cloud Transformations to DevOps implementations.
-
-I love to share my knowledge, which was also one of the reasons why he founded the Dutch Cloud Meetup. Maik is a public speaker who writes blogs and organizes events. Microsoft has recognized me as Microsoft Azure MVP.
-
 ![👋 Hi, my name is Maik van der Gaag](https://as2.ftcdn.net/v2/jpg/05/67/40/31/1000_F_567403147_WjV5fqGRjjPUkBOnXaaREKgVjZMC12M7.jpg)
 
 ![Profile views](https://komarev.com/ghpvc/?username=maikvandergaag&label=Profile%20views&color=0e75b6&style=flat)
@@ -21,7 +15,7 @@ I love to share my knowledge, which was also one of the reasons why he founded t
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/maikvandergaag" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/maikvandergaag" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/maikvandergaag" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="right">🚀 I'm Maik van der Gaag, and work as the CTO for 3fifty, an experienced consultancy company focusing on the Microsoft Cloud. I have over 15 years of experience providing architecture, development, training, and design expertise. During my work, I work on a variety of projects ranging from Cloud Transformations to DevOps implementations.
+ <h3 align="right">🚀 I'm Maik van der Gaag, and work as the CTO for 3fifty, an experienced consultancy company focusing on the Microsoft Cloud. I have over 15 years of experience providing architecture, development, training, and design expertise. During my work, I work on a variety of projects ranging from Cloud Transformations to DevOps implementations.
 
 I love to share my knowledge, which was also one of the reasons why he founded the Dutch Cloud Meetup. Maik is a public speaker who writes blogs and organizes events. Microsoft has recognized me as Microsoft Azure MVP.</h3>**
 
